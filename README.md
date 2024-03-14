@@ -1,4 +1,1 @@
-# ML_AI
-# ML_AI
-# ML_AI
-# ML_AI
+Welcome to my GitHub repository! Dive into a curated collection of Obsidian notes and PDFs, brimming with insights on Machine Learning and AI tailored for data scientists. Explore German PDFs alongside a mix of German and English Obsidian notes, designed to enrich your understanding and propel your journey in the realm of data science. 
